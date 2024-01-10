@@ -1,0 +1,92 @@
+[
+  {
+    "Course List": "Inisiatif, Proaktif, Bertanggung jawab",
+    "High": "Siswa dapat secara aktif melaporkan progress dan kendala yang dihadapi selama program",
+    "Low": "Siswa cukup aktif melaporkan progress dan kendala yang dihadapi selama program",
+    "Lowest": "Siswa perlu lebih aktif melaporkan progress dan kendala yang dihadapi selama program"
+  },
+  {
+    "Course List": "Bahasa Inggris",
+    "High": "Siswa dapat berkomunikasi dan memahami materi berbahasa Inggris dengan lancar dan efektif",
+    "Low": "Siswa dapat berkomunikasi dan cukup memahami materi berbahasa Inggris dengan lancar dan efektif",
+    "Lowest": "Siswa perlu lebih meningkatkan kemampuan berkomunikasi dan memahami materi berbahasa Inggris dengan lancar dan efektif"
+  },
+  {
+    "Course List": "Tugas Soft Skill",
+    "High": "Siswa mengerti dengan baik terkait Life Path, Growth Mindset, The Power of Feedback, Time Management, Critical Thinking, Problem Solving, Adaptability, Resilience, Project Management, Professional Communication, Networking, Digital Branding, and Interview Communication",
+    "Low": "Siswa cukup mengerti terkait Life Path, Growth Mindset, The Power of Feedback, Time Management, Critical Thinking, Problem Solving, Adaptability, Resilience, Project Management, Professional Communication, Networking, Digital Branding, and Interview Communication",
+    "Lowest": "Pemahaman siswa terkait Life Path, Growth Mindset, The Power of Feedback, Time Management, Critical Thinking, Problem Solving, Adaptability, Resilience, Project Management, Professional Communication, Networking, Digital Branding, and Interview Communication, perlu ditingkatkan"
+  },
+  {
+    "Course List": "Penyiapan Karier atau startup",
+    "High": "Siswa mampu menyimpulkan dan memilih jalur karier pada bidang Software Development yang sesuai dengan diri mereka beserta mengerti hal-hal yang harus mereka persiapkan untuk mencapai dan menjalani karier tersebut",
+    "Low": "Siswa cukup baik dalam menyimpulkan dan memilih jalur karier pada bidang Software Development yang sesuai dengan diri mereka beserta mengerti hal-hal yang harus mereka persiapkan untuk mencapai dan menjalani karier tersebut",
+    "Lowest": "Siswa perlu lebih meningkatkan kemampuan menyimpulkan dan memilih jalur karier pada bidang Software Development yang sesuai dengan diri mereka beserta mengerti hal-hal yang harus mereka persiapkan untuk mencapai dan menjalani karier tersebut."
+  },
+  {
+    "Course List": "Review Materi",
+    "High": "Siswa dapat menunjukkan kompetensi dalam materi teknikal yang telah dipelajari",
+    "Low": "Siswa cukup dapat menunjukkan kompetensi dalam materi teknikal yang telah dipelajari.",
+    "Lowest": "Siswa kurang menunjukkan kompetensi dalam materi teknikal yang telah dipelajari sehingga perlu lebih meningkatkan kompetensinya."
+  },
+  {
+    "Course List": "Refleksi diri",
+    "High": "Siswa mampu menceritakan kembali dan melaporkan hal yang didapatkan selama proses pembelajaran dalam bentuk lisan dan tulisan",
+    "Low": "Siswa cukup baik dalam menceritakan kembali dan melaporkan hal yang didapatkan selama proses pembelajaran dalam bentuk lisan dan tulisan",
+    "Lowest": "Siswa perlu meningkatkan kemampuan untuk menceritakan kembali dan melaporkan hal yang didapatkan selama proses pembelajaran dalam bentuk lisan dan tulisan"
+  },
+  {
+    "Course List": "Google IT Automation with Python",
+    "High": "Siswa memiliki pemahaman dalam membuat program python dan bagaimana menggunakan python untuk otomasi tugas administrasi secara umum.",
+    "Low": "Siswa cukup memiliki pemahaman dalam membuat program python dan bagaimana menggunakan python untuk otomasi tugas administrasi secara umum.",
+    "Lowest": "Siswa perlu meningkatkan pemahaman dalam membuat program python dan bagaimana menggunakan python untuk otomasi tugas administrasi secara umum."
+  },
+  {
+    "Course List": "Mathematics for Machine Learning and Data Science Specialization",
+    "High": "Siswa mampu memahami dengan baik dalam proses belajar guna memiliki pengetahuan matematika prasyarat untuk melanjutkan perjalanan dan mengambil kursus yang lebih maju dalam pemelajaran mesin",
+    "Low": "Siswa cukup mampu memahami proses belajar guna memiliki pengetahuan matematika prasyarat untuk melanjutkan perjalanan dan mengambil kursus yang lebih maju dalam pemelajaran mesin",
+    "Lowest": "Siswa perlu meningkatkan kemampuan memahami proses belajar guna memiliki pengetahuan matematika prasyarat untuk melanjutkan perjalanan dan mengambil kursus yang lebih maju dalam pemelajaran mesin"
+  },
+  {
+    "Course List": "DeepLearning.AI Tensorflow Data and Deployment",
+    "High": "Siswa telah mampu mendeploy model Machine Learning pada Web",
+    "Low": "siswa cukup mampu mendeploy model Machine Learning pada Web",
+    "Lowest": "Siswa perlu belajar lebih baik lagi untuk proses mendeploy model Machine Learning pada Web"
+  },
+  {
+    "Course List": "DeepLearning.AI TensorFlow Developer Professional Certificate",
+    "High": "Siswa mampu menerapkan keterampilan TensorFlow ke berbagai masalah dan proyek",
+    "Low": "Siswa cukup mampu menerapkan keterampilan TensorFlow ke berbagai masalah dan proyek",
+    "Lowest": "Siswa perlu meningkatkan kemampuan dalam menerapkan keterampilan TensorFlow ke berbagai masalah dan proyek"
+  },
+  {
+    "Course List": "Machine Learning Specialization by Andrew Ng",
+    "High": "Siswa dapat menguasai konsep penting dan memahami penerapan machine learning untuk menjadi solusi problem di dunia nyata.",
+    "Low": "Siswa cukup dapat menguasai konsep penting dan memahami penerapan machine learning untuk menjadi solusi problem di dunia nyata.",
+    "Lowest": "Siswa perlu meningkatkan kemampuan dalam menerapkan keterampilan TensorFlow ke berbagai masalah dan proyek"
+  },
+  {
+    "Course List": "Google Data Analytics",
+    "High": "Siswa memiliki pemahaman terkait pembersihan data, pemecahan masalah, cara berpikir kritis, etika data, dan visualisasi data.",
+    "Low": "Siswa cukup memiliki pemahaman terkait pembersihan data, pemecahan masalah, cara berpikir kritis, etika data, dan visualisasi data.",
+    "Lowest": "Siswa perlu meningkatkan pemahaman terkait pembersihan data, pemecahan masalah, cara berpikir kritis, etika data, dan visualisasi data."
+  },
+  {
+    "Course List": "Structuring Machine Learning Projects",
+    "High": "Siswa mampu dengan baik melakukan end-to-end workflow dari Project Machine Learning",
+    "Low": "Siswa cukup mampu melakukan end-to-end workflow dari Project Machine Learning",
+    "Lowest": "Siswa perlu belajar lebih banyak lagi dengan baik dalam melakukan end-to-end workflow dari Project Machine Learning"
+  },
+  {
+    "Course List": "Simulasi Ujian TensorFlow Developer Certificate",
+    "High": "Siswa dapat dengan matang mempersiapkan diri mengikuti ujian TensorFlow Developer Certificate",
+    "Low": "Siswa cukup matang mempersiapkan diri mengikuti ujian TensorFlow Developer Certificate",
+    "Lowest": "Siswa perlu lebih baik dalam mempersiapkan diri mengikuti ujian TensorFlow Developer Certificate"
+  },
+  {
+    "Course List": "Capstone Project / Proyek Akhir",
+    "High": "Siswa dapat memulai tahapan membuat proyek akhir dengan baik, yakni dalam segi pengembangan aplikasi/solusi yang dikerjakan untuk memvalidasi skill pengembangan produk dan menambah portfolio.",
+    "Low": "Siswa cukup dapat memulai tahapan membuat proyek akhir dengan cukup baik, yakni dalam segi pengembangan aplikasi/solusi yang dikerjakan untuk memvalidasi skill pengembangan produk dan menambah portfolio.",
+    "Lowest": "Siswa perlu memperhatikan proses saat memulai tahapan membuat proyek akhir, yakni dalam segi pengembangan aplikasi/solusi yang dikerjakan untuk memvalidasi skill pengembangan produk dan menambah portfolio."
+  }
+]

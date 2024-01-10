@@ -1,0 +1,46 @@
+[
+  {
+    "id": "006f0684-116a-44af-884a-5f3d8d9fdc48",
+    "name": "MUHAMMAD RIFALDI DWIMAHENDRA",
+    "email": "rfldi.mhndra512@gmail.com",
+    "university_name": "Universitas Tadulako",
+    "activity_id": "a1e7394a-d775-11ed-97aa-a62b0566759c",
+    "activity": "Bangkit Academy 2023 By Google, GoTo, Traveloka - Machine Learning Learning Path",
+    "position_id": "a1e7394a-d775-11ed-97aa-a62b0566759c",
+    "position": "",
+    "program_id": "e4308cbd-43df-4367-a98b-ab62c9976c74",
+    "program": "Bangkit Academy 2023 by Google, GoTo, Traveloka (Ini adalah proposal lama tanpa adanya perubahan)",
+    "report_status": {
+      "unreviewed": 0
+    },
+    "evaluation_status": "UNEVALUATED",
+    "image": "https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id_private/profile/profile_e695cd12-bd02-441b-b263-9040eb4fe6df.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=mbkm-core%40mbkm-production.iam.gserviceaccount.com%2F20240110%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240110T115626Z&X-Goog-Expires=3599&X-Goog-Signature=8b5b740523144a7e9ee2117a2bbefea0c70e1d680c866ef2f20234e2ca980a1f23f8dcf2a6898d8e27bb4fa731309bc5d2ee882d62a8cb64fb0442ed0a13886d48fb7ea1ac80cae74eceb3ab720fcc77ec64a706f5a1a3c2e4e80c074c49c3f7c5be9ce52dc4e2f2e4d94d2efb4a25447d0c654847895cef990d041870e27fe0fcd727ff52220ac2be08802d43189365aff1bda4d25479187b4d94e6668e85057a9900846335acbf0eed8d396843db14a2e87db2fbc80c06a174ec6d746c7168d50799413002fd68db21af6c96ee65130de7922f36242b68a2cf293d4d0c565901cdb111ec194abf352ce8ebaac3ecc07e8a5a26a6f67196b778f65169a8e4b7&X-Goog-SignedHeaders=host",
+    "id_reg_penawaran": "5831434",
+    "mentor_id": "f74973ed-c687-4cb7-8a9e-42d2a3977bd4",
+    "mentor_name": "Azzara Aji Syahputri",
+    "type": "studi",
+    "appraisal_status": "FINAL_ASSESSMENT_NOT_STARTED"
+  },
+  {
+    "id": "05c64212-6e14-45a6-9aba-6fc51142fe06",
+    "name": "SRI RAHAYU YUSRI",
+    "email": "srirhyuyy2101@gmail.com",
+    "university_name": "Universitas Hasanuddin",
+    "activity_id": "a1e7394a-d775-11ed-97aa-a62b0566759c",
+    "activity": "Bangkit Academy 2023 By Google, GoTo, Traveloka - Machine Learning Learning Path",
+    "position_id": "a1e7394a-d775-11ed-97aa-a62b0566759c",
+    "position": "",
+    "program_id": "e4308cbd-43df-4367-a98b-ab62c9976c74",
+    "program": "Bangkit Academy 2023 by Google, GoTo, Traveloka (Ini adalah proposal lama tanpa adanya perubahan)",
+    "report_status": {
+      "unreviewed": 0
+    },
+    "evaluation_status": "UNEVALUATED",
+    "image": "https://storage.googleapis.com/kampusmerdeka_kemdikbud_go_id_private/mahasiswa/mahasiswa_67646717-b0ae-4b9b-9c9e-95623ca10d8c.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=mbkm-core%40mbkm-production.iam.gserviceaccount.com%2F20240110%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20240110T115626Z&X-Goog-Expires=3599&X-Goog-Signature=7185c4881ae24f5d1504b636882c5dd85c034cb7384857fdf655e7289eff8b57bf27a678663c31e046ed9009cb135918f50134b503e06847fec4de50ff432f84515f427b2c37e3e59e377a933b1fcf4a0a7909146c0611f109af2a202bf06aef46516ad4c6ef512ce8fb0b87bebaa4952fbd1a78ffeddb10126bd609fae4104673b7b3e12ab7b45b18dddac9eb4b20f5d72935dd87d8e3361e52abd956601709db40bf819d9f2eb6982ab5509a2661a2623b78d93ba36aa844cc5f2b7099cd3383e10b29842e14138e8a02b10011a2d564592cf30925fdc40e6dc10938dd351daf4a2bdfc9d4e3de9e705c7d336eee5a4989f9538c2389e01eac1d89bac75901&X-Goog-SignedHeaders=host",
+    "id_reg_penawaran": "6735512",
+    "mentor_id": "f74973ed-c687-4cb7-8a9e-42d2a3977bd4",
+    "mentor_name": "Azzara Aji Syahputri",
+    "type": "studi",
+    "appraisal_status": "FINAL_ASSESSMENT_NOT_STARTED"
+  }
+]
