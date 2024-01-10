@@ -19,7 +19,7 @@
 8. Copy the JSON result to each files named `original.json` and `comments.json`
 9. Open `assessment.js` and change the `keys` variable by matching it with the `comments.json`
 
-### 3. Get Mentee Token
+### 3. Get Mentor Token
 
 1. Go to website <https://mentor.kampusmerdeka.kemdikbud.go.id/dashboard>
 2. Login with your account
